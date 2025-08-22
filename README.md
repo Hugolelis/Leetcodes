@@ -1,30 +1,36 @@
-# 📡 Logical Challenges 
+# 📡 Desafios Lógicos
 
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg) ![Status](https://img.shields.io/badge/status-completed-green.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-> Exercise your mind.
+> Exercite sua mente.
 
 ---
 
-### 📚 About
-This repository was created to help developers improve their programming logic through a variety of exercises. The challenges are divided into different difficulty levels and cover fundamental topics such as loops, conditionals, functions, recursion, and data structures.  
+### 📚 Sobre
+Este repositório foi criado para ajudar desenvolvedores a melhorar a lógica de programação por meio de uma variedade de exercícios. Os desafios são divididos em diferentes níveis de dificuldade e abordam tópicos fundamentais, como loops, condicionais, funções, recursão e estruturas de dados.
 
 ---
 
-## 🚀 Topics Covered
+## 🚀 Tópicos Abordados
 
-- ✅ Basic operations  
-- ✅ Conditionals (if/else, switch)  
+- ✅ Operações básicas  
+- ✅ Condicionais (if/else, switch)  
 - ✅ Loops (for, while, do-while)  
-- ✅ Arrays and matrices  
-- ✅ Functions and recursion  
-- ✅ Sorting and searching algorithms  
-- ✅ Object-oriented exercises  
-- ✅ Problem-solving challenges 
+- ✅ Arrays e matrizes  
+- ✅ Funções e recursão  
+- ✅ Algoritmos de ordenação e busca  
+- ✅ Exercícios de orientação a objetos  
+- ✅ Desafios de resolução de problemas  
 
 ---
 
-## 🖥️ Clone the repository
+## 💻 Linguagens Utilizadas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+
+---
+
+## 🖥️ Clonar o repositório
 
 ```bash
 git clone https://github.com/Hugolelis/exercisesLogic.git
